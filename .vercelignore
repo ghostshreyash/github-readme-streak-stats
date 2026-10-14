@@ -23,3 +23,9 @@ docker_tag
 # Demo page - not needed for a personal deployment, and its extra
 # PHP files push the function count past the Hobby plan limit
 api/demo/
+
+# Docker/Heroku deployment files - this branch deploys on Vercel
+Dockerfile
+Procfile
+Aptfile
+app.json
