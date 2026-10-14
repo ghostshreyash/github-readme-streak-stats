@@ -19,3 +19,7 @@ docker_tag
 # IDE
 .vscode/
 .idea/
+
+# Demo page - not needed for a personal deployment, and its extra
+# PHP files push the function count past the Hobby plan limit
+api/demo/
